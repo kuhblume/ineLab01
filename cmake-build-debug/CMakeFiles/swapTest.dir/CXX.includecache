@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kasum/MyWorkSpace/swapTest/getFileSize.h
+
+C:/Users/kasum/MyWorkSpace/swapTest/main.cpp
+iostream
+-
+vector
+-
+cstdio
+-
+fstream
+-
+swap.h
+C:/Users/kasum/MyWorkSpace/swapTest/swap.h
+scramble.h
+C:/Users/kasum/MyWorkSpace/swapTest/scramble.h
+getFileSize.h
+C:/Users/kasum/MyWorkSpace/swapTest/getFileSize.h
+
+C:/Users/kasum/MyWorkSpace/swapTest/makeTestFile.cpp
+iostream
+-
+vector
+-
+
+C:/Users/kasum/MyWorkSpace/swapTest/scramble.cpp
+scramble.h
+C:/Users/kasum/MyWorkSpace/swapTest/scramble.h
+iostream
+-
+
+C:/Users/kasum/MyWorkSpace/swapTest/scramble.h
+
+C:/Users/kasum/MyWorkSpace/swapTest/swap.h
+
